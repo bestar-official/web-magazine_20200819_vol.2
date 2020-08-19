@@ -1,0 +1,78 @@
+img { 
+    max-width:100%; 
+    height:auto; 
+}
+
+a {
+    text-decoration: none;
+}
+
+
+
+
+.logo {
+    width: 100%;
+}
+
+.mainview {
+    width: 100%;
+}
+
+.title {
+    width: 100%;
+    margin-top: 10px;
+}
+
+.top {
+    width: 100%;
+}
+
+.school {
+    width: 100%;
+}
+
+.mensset {
+    width: 100%;
+}
+
+.dream {
+    width: 100%;
+}
+
+
+.back_button {
+    width: 100%;
+}
+
+.comingsoon {
+    width: 100%;
+}
+
+.youtube {
+    width: 70%;
+    margin-left: 17.6%;
+}
+
+.contents {
+    width: 100%;
+}
+
+
+
+
+
+
+
+
+.title {
+    opacity: 0;
+    visibility: hidden;
+    transform: translateY(40px);
+    transition: all 1s;
+}
+
+.title.is-slow {
+    opacity: 1;
+    visibility: visible;
+    transform: translateY(0px);
+}
