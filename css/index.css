@@ -44,6 +44,11 @@ a {
     width: 100%;
 }
 
+.area {
+    position: relative;
+    width: 100%;
+}
+
 .comingsoon {
     width: 100%;
 }
@@ -51,6 +56,9 @@ a {
 .youtube {
     width: 70%;
     margin-left: 17.6%;
+    position: absolute;
+    top: 77%;
+    left: 1%
 }
 
 .contents {
